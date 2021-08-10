@@ -4,13 +4,8 @@ tags:
   - separation
   - u-net
 authors:
-  - name: Adrian M. Price-Whelan^[co-first author] # note this makes a footnote saying 'co-first author'
-    orcid: 0000-0003-0872-7098
-    affiliation: "1, 2" # (Multiple affiliations must be quoted)
-  - name: Author Without ORCID^[co-first author] # note this makes a footnote saying 'co-first author'
-    affiliation: 2
-  - name: Author with no affiliation^[corresponding author]
-    affiliation: 3
+  - name: Fabian-Robert Stöter
+    affiliation: 1
 affiliations:
  - name: Lyman Spitzer, Jr. Fellow, Princeton University
    index: 1
